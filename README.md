@@ -1,4 +1,5 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
+![](https://img.shields.io/badge/license-MIT-Green)
 
 ## User Story
 
@@ -24,24 +25,18 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
+## Licence
+This app is under the MIT License.
+## Contributing
+If anyone want to improve the app, feel free to contact me.
+## Screenshot
+[Click here to see the demo video](https://youtu.be/Yx80DBjh-xs)
 
-### Walkthrough Video: 37%
+![](./Assets/my-bussiness-Back-End.gif)
+## Questions
+Contact me: muchir99@gmail.com
 
-* A walkthrough video that demonstrates the functionality of the e-commerce back end must be submitted, and a link to the video should be included in your readme file.
-
-* The walkthrough video must show all of the technical acceptance criteria being met.
-
-* The walkthrough video must demonstrate how to create the schema from the MySQL shell.
-
-* The walkthrough video must demonstrate how to seed the database from the command line.
-
-* The walkthrough video must demonstrate how to start the application’s server.
-
-* The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia.
-
-* The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia.
-
-* The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia.
+My Github: https://github.com/muchirbickel
 
 
 
